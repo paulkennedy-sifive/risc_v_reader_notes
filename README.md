@@ -29,7 +29,7 @@
 
 ## RV32I: RISC-V Base Integer ISA
 
-<ins>s<ins>et <ins>l</ins>ess <ins>t</ins>han
+<ins>s</ins>et <ins>l</ins>ess <ins>t</ins>han
 
 ## RISC-V Assembly Language
 

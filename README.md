@@ -30,7 +30,7 @@
 ## RV32I: RISC-V Base Integer ISA
 
 - See figure 2.1 for RV32I diagram
-  - Example: <ins>s</ins>et <ins>l</ins>ess <ins>t</ins>han {_, <ins>i</ins>mmediate} {_, <ins>u</ins>nsigned }
+  - Example: <ins>s</ins>et <ins>l</ins>ess <ins>t</ins>han \{_, <ins>i</ins>mmediate\} \{_, <ins>u</ins>nsigned \}
 
 ## RISC-V Assembly Language
 
